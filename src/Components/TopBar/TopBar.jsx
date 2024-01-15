@@ -1,7 +1,9 @@
 import "./topbar.css"
 
 export const TopBar = () => {
-  return (
-    <div>TopBar</div>
-  )
+    return (
+        <div className="top">
+            TopBar
+        </div>
+    )
 }
